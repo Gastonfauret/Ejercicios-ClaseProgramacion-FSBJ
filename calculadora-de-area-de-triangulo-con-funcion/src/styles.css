@@ -1,0 +1,22 @@
+body {
+  font-family: Arial;
+  font-size: 18px;
+  text-align: center;
+}
+
+#container {
+  margin: 27% 0 27% 0;
+}
+
+#title {
+  font-size: 26px;
+}
+
+#btnSend {
+  font-size: 17px;
+}
+
+#btnSend:hover {
+  border-color: blue;
+  border-radius: 5px;
+}
